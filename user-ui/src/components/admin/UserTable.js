@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Form, Button, Input, Table } from "semantic-ui-react";
-import { data } from "react-router-dom";
 
 function UserTable({
   users,

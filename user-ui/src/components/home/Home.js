@@ -4,7 +4,6 @@ import {
   Icon,
   Grid,
   Container,
-  Image,
   Segment,
   Dimmer,
   Loader,
