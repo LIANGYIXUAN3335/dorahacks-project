@@ -3,6 +3,9 @@
     "start": "react-scripts start",
     "test": "react-scripts test --coverage"
   },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "cypress": "^14.1.0",
