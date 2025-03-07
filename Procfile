@@ -1,1 +1,1 @@
-web: cd user-ui && npm install && npm start
+web: java -Dserver.port=$PORT -jar target/dorahacks-project.jar
