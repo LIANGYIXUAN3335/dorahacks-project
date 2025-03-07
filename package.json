@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "start": "react-scripts start",
     "test": "react-scripts test --coverage"
   },
   "devDependencies": {
